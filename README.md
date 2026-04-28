@@ -13,9 +13,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)<br>
 ## 📊 GitHub Stats
-
-![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaan-Dev&show_icons=true&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaan-Dev&show_icons=true&theme=tokyonight&custom_title=Ayaan%20Ansari's%20GitHub%20Stats)
 <!--
 **AYAANANSARIFF1234/AYAANANSARIFF1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

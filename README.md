@@ -14,7 +14,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)<br>
 <br>
 ## About Me
-🚀 Projects: Check out all my work on GitHub @AYAANANSARIFF1234. <br>
+🌱 Currently learning: Advanced Full Stack Development<br>
 🌱 Continuous Learning: Constantly exploring new technologies, frameworks, and best practices in software development and machine learning
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaan-Dev&show_icons=true&theme=tokyonight&custom_title=Ayaan%20Ansari's%20GitHub%20Stats)
